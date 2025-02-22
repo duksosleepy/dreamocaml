@@ -5,7 +5,7 @@ description: "A longer description"
 maintainer: ["Song Khoi <songkhoi123@gmail.com>"]
 authors: ["Song Khoi <songkhoi123@gmail.com>"]
 license: "LICENSE"
-tags: ["add topics" "to describe" "your" "project"]
+tags: ["web" "server" "dream"]
 homepage: "https://github.com/duksosleepy/dreamocaml"
 doc: "https://url/to/documentation"
 bug-reports: "https://github.com/duksosleepy/dreamocaml/issues"

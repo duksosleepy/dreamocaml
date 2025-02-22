@@ -1,11 +1,8 @@
 (lang dune 3.17)
 
-(name dreamocaml)
-
 (generate_opam_files true)
 
-(source
- (github duksosleepy/dreamocaml))
+(source (github duksosleepy/dreamocaml))
 
 (authors "Song Khoi <songkhoi123@gmail.com>")
 
@@ -20,7 +17,5 @@
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dream containers)
- (tags
-  ("add topics" "to describe" your project)))
-
-; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html
+ (tags ("web" "server" "dream"))
+ (allow_empty))
