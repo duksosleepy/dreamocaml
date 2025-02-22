@@ -7,9 +7,9 @@
 (source
  (github duksosleepy/dreamocaml))
 
-(authors "Author Name github")
+(authors "Song Khoi <songkhoi123@gmail.com>")
 
-(maintainers "Maintainer Name <maintainer@example.com>")
+(maintainers "Song Khoi <songkhoi123@gmail.com>")
 
 (license LICENSE)
 
@@ -19,7 +19,7 @@
  (name dreamocaml)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml)
+ (depends ocaml dream containers)
  (tags
   ("add topics" "to describe" your project)))
 

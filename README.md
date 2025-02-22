@@ -7,8 +7,10 @@
 
 4. `opam switch create ...` to create new
 
-5. Install dune `opam install dune`
+5. (Optional) `opam install system-msvc` if using windows
 
-6. Install dream `opam install containers dream`
+6. Install dune `opam install dune`
 
-7. Install plugin `opam install ocaml-lsp-server ocamlformat`
+7. Install dream `opam install containers dream`
+
+8. Install plugin `opam install ocaml-lsp-server ocamlformat`

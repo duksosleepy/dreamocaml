@@ -1,2 +1,3 @@
 (library
- (name dreamocaml))
+ (name dreamocaml)
+ (libraries dream))
