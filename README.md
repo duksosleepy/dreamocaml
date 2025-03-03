@@ -14,3 +14,7 @@
 7. Install dream `opam install containers dream`
 
 8. Install plugin `opam install ocaml-lsp-server ocamlformat`
+
+9. Pin Melange `opam pin add melange https://github.com/melange-re/melange.git`
+
+10. 
